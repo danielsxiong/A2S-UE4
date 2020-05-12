@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/Project/BatteryCollector/BatteryCollector/.vscode": true,
+		"D:/Project/BatteryCollector/BatteryCollector/Content": true,
+		"D:/Project/BatteryCollector/BatteryCollector/Intermediate": true
+	}
+}
